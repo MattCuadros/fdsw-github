@@ -5,19 +5,25 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/20220709_175728.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: left;
+  background-position: center;
+  height: 100%;
+  width: 100%;
 }
 
 /* Mis trabajos */
 
+#Mis-trabajos{
+  background-color: #9cafb7;
+}
+
 #Mis-trabajos .image-top {
-  height: 250px;
+  height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: left;
 }
 
 /* Contacto */
@@ -36,4 +42,17 @@ body {
     width: 100px;
   }
 
+}
+
+.color1{
+  color: #f6f930;
+}
+.color2{
+  color: #2f2f2f;
+}
+.color3{
+  color: #9cafb7;
+}
+.color4{
+  color: #6db1bf;
 }
