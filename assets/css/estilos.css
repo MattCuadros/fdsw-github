@@ -8,8 +8,8 @@ body {
 #Hero-Section {
   margin: 0;
   overflow: hidden;
-  height: fit-content;
-  height: 100vmax;
+  
+  height: 140vh;
   
   
 }
